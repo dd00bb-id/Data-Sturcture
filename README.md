@@ -9,7 +9,7 @@
 1. [자료구조의 소개](Data-Sturcture
 /1.md)
 
-2. [리스트(list) ADT](자료구조/리스트.md)
+2. [리스트(list) ADT](1.md)
 
 3. [큐(queue) ADT](자료구조/큐.md)
 
