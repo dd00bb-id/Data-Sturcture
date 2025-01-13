@@ -8,11 +8,18 @@
 
 ## 목차
 
-1. [자료구조의 소개](#자료구조의-소개)
+1. [자료구조의 소개](#자료구조의-소개)  
+
 2. [리스트(list) ADT](#리스트list-adt)
+
 3. [큐(queue) ADT](#큐queue-adt)
+
 4. [스택(stack) ADT](#스택stack-adt)
+
 5. [재귀함수](#재귀함수)
+
 6. [트리(tree) ADT](#트리tree-adt)
+
 7. [그래프(graph) ADT](#그래프graph-adt)
+
 8. [정렬과 해쉬](#정렬과-해쉬)
