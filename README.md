@@ -24,14 +24,62 @@
 
 ```
 
-| n           | 0.1n² + n + 100   | 0.1n²         | n     | 100   |
-|-------------|-------------------|---------------|-------|-------|
-| 10          | 120               | 10            | 10    | 100   |
-| 20          | 160               | 40            | 20    | 100   |
-| 50          | 400               | 250           | 50    | 100   |
-| 100         | 1,200             | 1,000         | 100   | 100   |
-| 1,000       | 101,100           | 100,000       | 1,000 | 100   |
-| 1,000,000   | 100,001,000,100   | 100,000,000,000 | 1,000,000 | 100 |
+<table border="1" cellpadding="5" cellspacing="0">
+  <thead>
+    <tr style="background-color: #f2f2f2; color: black;">
+      <th>n</th>
+      <th>0.1n² + n + 100</th>
+      <th>0.1n²</th>
+      <th>n</th>
+      <th>100</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>10</td>
+      <td>120</td>
+      <td>10</td>
+      <td>10</td>
+      <td>100</td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td>20</td>
+      <td>160</td>
+      <td>40</td>
+      <td>20</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>400</td>
+      <td>250</td>
+      <td>50</td>
+      <td>100</td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td>100</td>
+      <td>1,200</td>
+      <td>1,000</td>
+      <td>100</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>1,000</td>
+      <td>101,100</td>
+      <td>100,000</td>
+      <td>1,000</td>
+      <td>100</td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td>1,000,000</td>
+      <td>100,001,000,100</td>
+      <td>100,000,000,000</td>
+      <td>1,000,000</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 ```
