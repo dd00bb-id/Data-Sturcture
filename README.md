@@ -10,9 +10,9 @@
 
 2. [리스트(list) ADT](2.md)
 
-3. [큐(queue) ADT](자료구조/큐.md)
+3. [스택(stack) ADT](자료구조/3.md)
 
-4. [스택(stack) ADT](자료구조/스택.md)
+4. [큐(queue) ADT](자료구조/큐.md)
 
 5. [재귀함수](자료구조/트리.md)
  
