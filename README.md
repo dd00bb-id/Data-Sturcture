@@ -10,7 +10,7 @@
 
 2. [리스트(list) ADT](2.md)
 
-3. [스택(stack) ADT](자료구조/3.md)
+3. [스택(stack) ADT](3.md)
 
 4. [큐(queue) ADT](자료구조/큐.md)
 
