@@ -12,7 +12,7 @@
 
 3. [스택(stack) ADT](3.md)
 
-4. [큐(queue) ADT](자료구조/큐.md)
+4. [큐(queue) ADT](4.md)
 
 5. [재귀함수](자료구조/트리.md)
  
