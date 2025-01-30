@@ -59,7 +59,7 @@
 [0058]        return nl+nr+1;
 [0059]    };
 [0060]    
-[0061]    void binaryTree::BFS () { //queue가 선언되어 있음을 가정함. 컴파일시 오류
+[0061]    void binaryTree::BFS () {
 [0062]        queue q;
 [0063]        q.InsertQ(root_);
 [0064]        while (!q.IsEmpty()) {
