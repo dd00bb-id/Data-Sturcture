@@ -17,7 +17,7 @@
  
 6. [트리(tree) ADT](6.md)
 
-7. [그래프(graph) ADT](자료구조/그래프.md)
+7. [그래프(graph) ADT](7.md)
 
 8. [우선순위큐 (priority queue) ADT](8.md)
 
